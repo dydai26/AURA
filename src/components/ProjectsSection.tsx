@@ -1,5 +1,5 @@
 import { useInViewAnimation } from '../hooks/useInViewAnimation';
-import { cn } from './Button';
+import { cn, Button } from './Button';
 import { ArrowUpRight } from 'lucide-react';
 
 const projects = [
@@ -108,6 +108,9 @@ export function ProjectsSection() {
         {projects.map(p => (
           <ProjectItem key={p.id} project={p} />
         ))}
+      </div>
+      <div className="mt-16 md:mt-20 flex justify-center">
+        <Button variant="primary" href="https://t.me/web_dev18">Замовити сайт</Button>
       </div>
     </section>
   );

@@ -15,49 +15,49 @@ const projects = [
     name: "ES TRANS | Private Transfers",
     desc: "Сервіс преміальних приватних перевезень на сучасних автомобілях Mercedes-Benz.",
     link: "https://estrans.vercel.app",
-    img: "1.png"
+    img: "1.jpg"
   },
   {
     id: 3,
     name: "Мережа «Могорич» та «Апріорі»",
     desc: "Локальна мережа маркетів формату «біля дому» з широким асортиментом.",
     link: "https://mogorich.com.ua",
-    img: "2.png"
+    img: "2.jpg"
   },
   {
     id: 4,
     name: "Deluxe Trade",
     desc: "Імпортер та дистриб'ютор європейської побутової хімії високої якості.",
     link: "https://www.deluxtrade.com.ua",
-    img: "3.png"
+    img: "3.jpg"
   },
   {
     id: 5,
     name: "ECOVLUU",
     desc: "Інтернет-магазин натуральної доглядової косметики для волосся.",
     link: "https://ecovluu.com",
-    img: "4.png"
+    img: "4.jpg"
   },
   {
     id: 6,
     name: "MAMMA MIA (MMT)",
     desc: "Платформа для пошуку авторських подорожей, івентів та експертів.",
     link: "https://www.mammamiatrips.com",
-    img: "5.png"
+    img: "5.jpg"
   },
   {
     id: 7,
     name: "VEX Real Estate",
     desc: "Сучасний сервіс для зручного пошуку та оренди нерухомості.",
     link: "https://vex-platforms.vercel.app",
-    img: "6.png"
+    img: "6.jpg"
   },
   {
     id: 8,
     name: "UC Parts",
     desc: "Сучасний інтернет мазазин",
     link: "https://uc-parts-forge.vercel.app",
-    img: "7.png"
+    img: "7.jpg"
   }
 ];
 
